@@ -1,5 +1,4 @@
 # Olympic_Azure_DE_Project
-Instructor : [Darshil Parmar](https://github.com/darshilparmar)<br>
 Dataset : [Olympic Dataset](https://github.com/darshilparmar/tokyo-olympic-azure-data-engineering-project/tree/main/data)<br>
 &nbsp;<br>
 &nbsp;<br>
